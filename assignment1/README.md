@@ -17,10 +17,10 @@ y axis).
 
 • Implement code for label balancing to take your new dataset and generate a new dataset
 with label balancing. Use the the following pseudo code:
-    – First, find lmin: the number corresponding to the label that appears the least in
-    the data.
-    – Then, for each label in the dataset, randomly select only lmin samples and add
-    them to the new dataset.
+        – First, find lmin: the number corresponding to the label that appears the least in
+        the data.
+        – Then, for each label in the dataset, randomly select only lmin samples and add
+        them to the new dataset.
 
 For the same values of r that you used in the previous part, split the balanced dataset
 that you created into test-set and train-set, train a logistic regressor on the train-set,
