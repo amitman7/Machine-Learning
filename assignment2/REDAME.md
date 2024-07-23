@@ -1,4 +1,4 @@
-# Complete Machine Learning problem
+# Machine Learning classification problem
 
 Given a **dataset** (ass2.pickle), we divide it into three parts: **train, dev and test.**    
 The first two parts are used for experiments, and the third part will be used for evaluation (beware of data
