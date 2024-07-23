@@ -6,6 +6,7 @@ The firsttwo parts are used for experiments, and the third part will be used for
 **Given these, your goal is to produce the most accurate regressor.**  
 
 You need to justify by experiments each of the steps that lead to your model, specifically focusing on:    
+
     • Show the preliminary data analysis that you did.
     • Show all the different models that you tried, and explain how you chose the best one.
     • Show the preprocessing that you ran on the dataset and how it affects the model’s accuracy.
