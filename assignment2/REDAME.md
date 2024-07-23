@@ -1,11 +1,10 @@
-# complete Machine Learning problem
+# Complete Machine Learning problem
 
 Given a **dataset** (ass2.pickle), we divide it into three parts: **train, dev and test.**    
 The first two parts are used for experiments, and the third part will be used for evaluation (beware of data
 leaks!).
 
-Given these, your goal is to produce the most accurate classifier.    
-Your answers for this assignment should be included in Jupyter file: experiment.ipynb.    
+Given these, your goal is to produce the most accurate classifier.     
 You need to justify by experiments each of the steps that lead to your model, specifically focusing on:    
 
     • Show the preliminary data analysis that you did.
@@ -15,6 +14,6 @@ You need to justify by experiments each of the steps that lead to your model, sp
     • Describe the hyperparameter search and how each hyperparameter affects the model’s accuracy.
     
 Use the train set to train your model, and the dev set to evaluate it in the experiment phase.    
-When you finish your experiments, print the results on the test set, with the metrics you used in
-the experiments phase.
+**When you finish your experiments, print the results on the test set, with the metrics you used in
+the experiments phase.**
 
